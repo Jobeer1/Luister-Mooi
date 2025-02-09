@@ -45,3 +45,22 @@ This project uses the following third-party libraries, which have their own resp
    - Yamnet is a model available on TensorFlow Hub and is licensed under the Apache License 2.0.
    - For more information, visit the Yamnet model page on TensorFlow Hub: [Yamnet License](https://tfhub.dev/google/yamnet/1)
 
+### Acknowledgements
+We would like to extend our heartfelt gratitude to the incredible teams and individuals who have contributed to the development and training of Yamnet:
+
+- **Google Research Team**:
+  - The brilliant minds at Google Research have made significant contributions to the field of machine learning and sound classification. Their dedication to advancing AI technology has made Yamnet a powerful tool for sound recognition and classification.
+  - For more information about their work, visit the [Google Research Page](https://research.google.com/).
+
+- **TensorFlow Hub**:
+  - TensorFlow Hub has provided a valuable platform for sharing and accessing pre-trained machine learning models, including Yamnet. Their efforts have made it easier for developers and researchers to leverage advanced models and integrate them into their projects.
+  - For more information, visit the [TensorFlow Hub](https://tfhub.dev/).
+
+- **Open Source Community**:
+  - The open-source community has played a vital role in the continuous improvement and support of Yamnet. We appreciate the collaboration, feedback, and contributions from developers and researchers worldwide.
+
+- **Supportive Community**:
+  - We are grateful for the support and encouragement from our peers, mentors, and the larger AI community. Your insights and feedback have been invaluable in shaping and refining our project.
+
+This project would not have been possible without the collective efforts of these exceptional teams and individuals. Thank you for your dedication and contributions to the field of machine learning and sound classification.
+
