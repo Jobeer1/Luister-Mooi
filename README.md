@@ -4,6 +4,11 @@
 ### Project Overview
 **Luister-Mooi** is an innovative project that leverages Yamnet, a Convolutional Neural Network (CNN), to classify and understand various sounds. This implementation aims to provide accurate sound classification for applications such as child/teen protection, domestic abuse awareness, and general social good.
 
+### Download
+You can download the `geluide.exe` file from the following link:
+[Download geluide.exe](https://drive.google.com/file/d/1-RVMm5Udejg_E1grw1uQ-85zRvY0uziP/view?usp=drive_link)
+
+
 ### Table of Contents
 1. [Project Overview](#project-overview)
 2. [Features](#features)
